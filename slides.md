@@ -152,5 +152,5 @@ If you can't get things to work, don't hesitate to get in touch!
 <!-- Local Variables:  -->
 <!-- pandoc/write: beamer -->
 <!-- pandoc/latex-engine: "xelatex" -->
-<!-- pandoc/template: "include/beamer-template.tex" -->
+<!-- pandoc/template: "beamer-template.tex" -->
 <!-- End:  -->
