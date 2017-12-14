@@ -1,10 +1,12 @@
 ---
-author: Author name here
+author: The authors
 title: Concepts of programming languages
-subtitle: My title here
+subtitle: Language XXXX
 theme: uucs
-mainfont: Ubuntu Light
-sansfont: Ubuntu Light
+monofontoptions: Scale=0.75
+monofont: Fira Mono
+mainfont: Fira Sans Light
+sansfont: Fira Sans Light
 ---
 
 Please use Markdown to write your slides. 
@@ -151,6 +153,6 @@ If you can't get things to work, don't hesitate to get in touch!
 
 <!-- Local Variables:  -->
 <!-- pandoc/write: beamer -->
-<!-- pandoc/latex-engine: "xelatex" -->
+<!-- pandoc/pdf-engine: "xelatex" -->
 <!-- pandoc/template: "beamer-template.tex" -->
 <!-- End:  -->
